@@ -23,9 +23,7 @@ o [neste link](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/
 - Main
 > Readme.md |
 > package-lock.json |
-> package.json
-
-- Master 
+> package.json 
 > Models.js (contendo o arquivo Pokemons.js) |
 > Arquivo db.js |
 > Arquivo servidor.js
