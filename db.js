@@ -1,11 +1,14 @@
+require('dotenv').config();
 const mongoose = require('mongoose');
+
+const uri = process.env.MONGO_URI;
 
 const connectDB = async () => {
     try {
-        await mongoose.connect('mongodb://localhost:27017/DBPokemons');
-        console.log('Conectado ao MongoDB');
+        await mongoose.connect(uri);
+        console.log('Conectado ao MongoDB Atlas com sucesso');
     } catch (error) {
-        console.error('Erro ao conectar ao MongoDB:', error.message);
+        console.error('Erro ao conectar ao MongoDB Atlas:', error.message);
         process.exit(1);
     }
 };

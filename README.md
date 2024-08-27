@@ -36,10 +36,10 @@ o [neste link](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/
 ``https://github.com/andressacolareslima/NODE-JS-BACK-END-WEB-UFC.git``
 
 - Utilizando SSH
-``git@github.com:andressacolareslima/DEV-WEB-BACK-END-2024.1.git``
+``git@github.com:andressacolareslima/NODE-JS-BACK-END-WEB-UFC.git``
 
 - Utilizando GitHub CLI
-``gh repo clone andressacolareslima/DEV-WEB-BACK-END-2024.1``
+``gh repo clone andressacolareslima/NODE-JS-BACK-END-WEB-UFC``
 
 ## Testar a aplicação 💻
 Para testar essa aplicação, é necessário ter o Node.js instalado em sua máquina, como também o Postman para testar os CRUDS e MongoDB para o código de conexão ao DataBase funcione de forma correta.
