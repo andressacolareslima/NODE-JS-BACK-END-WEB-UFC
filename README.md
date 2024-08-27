@@ -33,7 +33,7 @@ o [neste link](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/
 ## Clonar respositório 📎
 
 - Para clonar usando URL do repositório :
-``https://github.com/andressacolareslima/DEV-WEB-BACK-END-2024.1.git``
+``https://github.com/andressacolareslima/NODE-JS-BACK-END-WEB-UFC.git``
 
 - Utilizando SSH
 ``git@github.com:andressacolareslima/DEV-WEB-BACK-END-2024.1.git``
